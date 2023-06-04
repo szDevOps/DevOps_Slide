@@ -44,29 +44,29 @@ Jenkins：
 CI/CD最流行的工具当属Jenkins和Gatlab。Jenkins是一款开源 CI&CD 软件，用于自动化各种任务,包括构建、测试和部署软件。
 与GatHub集成，GatHub 开发中用来做 Code Review 和 issue 跟踪，Jenkins 主要是用来保证测试和部署。
 
+
 #### 移动应用程序测试
 Appium：
 Appium 是一个用于移动应用程序测试的开源自动化测试框架。它支持多种移动平台，包括 iOS、Android 和 Windows。
 
 
 ### 常用的压力测试工具
-
-Apache JMeter
+Apache JMeter：
 JMeter是一款开源免费的压测产品，最初被设计用于Web应用功能测试使用，如今JMeter被广泛用于性能测试。
 
 
-locust
+locust：
 Locust 完全基本 Python 编程语言，采用 Pure Python 描述测试脚本，并且 HTTP 请求完全基于 Requests 库。除了 HTTP/HTTPS 协议，Locust 也可以测试其它协议的系统，只需要采用Python调用对应的库进行请求描述即可。但是需要手工编写脚本，有一定的难度。
 
 
-Webbench
+Webbench：
 Webbench是著名的压力测试工具，它能测试处在相同硬件上，不同服务的性能以及不同硬件上同一个服务的运行状况。
 
 
-Apache Bench
+Apache Bench：
 Apache Bench是Apache服务器的一个web压力测试工具，简称ab。它可以模拟多个用户对某个网站发起访问。
 
 ### 代码质量检测和代码安全检查工具
 
-SonarQube
+SonarQube：
 SonarQube是一个开源的代码质量检测和代码安全检查工具，支持多种语言，提供检查代码bug、漏洞，检查代码规范，一键修复历史债务等功能。
