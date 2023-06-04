@@ -1,4 +1,4 @@
-# 软件测试
+# 软件测试的内容
 
 
 
@@ -92,31 +92,3 @@
 ## 易用性测试
 
 易用性测试主要用于测试软件系统的易用性和用户体验，可以确定系统的用户友好性，以及系统是否能够在不同的用户群体中满足用户的需求和期望。
-
-
-
-## 测试实验室建设的技术路线
-
-- 开源路线
-    - 新节点
-    - 新节点
-    - 新节点
-    - 新节点
-       
-- 商业路线
-    - 公司甲
-    - 公司乙
-    - 公司丙
-
-
-
-## 测试清单
-- Penetration Testing
-    -Penetration testing is the practice of launching authorized, simulated attacks against computer systems and their physical infrastructure to expose potential security weaknesses and vulnerabilities.
-- 新节点
-- 新节点
-- 新节点
-
-
-
-![Untitled](https://file.notion.so/f/s/fce12fcd-4708-4196-aed8-7666075bd1f9/Untitled.png?id=5eaf3ada-67bd-4919-b050-997d66247b82&table=block&spaceId=e96fbc44-b3b8-465d-ac55-a6dfdee7acf4&expirationTimestamp=1682072174213&signature=37dPNU0x9zDXnX5QfZ8UMoIItkz4doiiyYMOb4u1jGg&downloadName=Untitled.png)
