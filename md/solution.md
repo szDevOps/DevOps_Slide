@@ -41,8 +41,8 @@ Selenium：
 
 #### 自动化测试框架
 Jenkins：
-CI/CD最流行的工具当属Jenkins和Gatlab。Jenkins是一款开源 CI&CD 软件，用于自动化各种任务,包括构建、测试和部署软件。
-与GatHub集成，GatHub 开发中用来做 Code Review 和 issue 跟踪，Jenkins 主要是用来保证测试和部署。
+CI/CD最流行的工具当属Jenkins和Gitlab。Jenkins是一款开源 CI&CD 软件，用于自动化各种任务,包括构建、测试和部署软件。
+与GitHub集成，GatHub 开发中用来做 Code Review 和 issue 跟踪，Jenkins 主要是用来保证测试和部署。
 
 
 #### 移动应用程序测试
